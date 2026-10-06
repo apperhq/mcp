@@ -3,7 +3,7 @@
 ## Reporting a vulnerability
 
 If you believe you have found a security vulnerability in the Apper MCP connector,
-please report it privately to **support@apper.io**.
+please report it privately to **support@integrately.com**.
 
 Please do not open a public GitHub issue for security reports.
 

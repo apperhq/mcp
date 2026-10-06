@@ -55,7 +55,7 @@ schema and row-level security policies, and working with edge functions, environ
 keys, and secrets.
 
 Full tool documentation lives at
-[apper.io/learn/docs/mcp](https://apper.io/learn/docs/mcp).
+[apper.io/learn/docs/mcp/apper-mcp-connector](https://apper.io/learn/docs/mcp/apper-mcp-connector).
 
 ## Registry
 
@@ -73,7 +73,7 @@ The manifest is [server.json](server.json).
 ## Links
 
 - [Apper](https://apper.io)
-- [Documentation](https://apper.io/learn/docs/mcp)
+- [Documentation](https://apper.io/learn/docs/mcp/apper-mcp-connector)
 - [Security policy](SECURITY.md)
 
 ## License
