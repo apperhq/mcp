@@ -1,6 +1,6 @@
 # Working with the Apper MCP connector
 
-This repo bundles the official Apper MCP server for use from Claude Code.
+This repo configures the official remote Apper MCP server for use from Claude Code.
 
 The server is remote and authenticates with OAuth 2.0 — the first tool call opens a
 browser to sign in to Apper. There is nothing to install or run locally.
@@ -29,9 +29,10 @@ for that specific deletion by name.
 completes. If it fails, read the error, fix it, and check again. Never hand back a
 preview URL for a build that did not succeed — say what failed and show the error.
 
-**Always end with a working preview.** Call `preview_app` and give the user the URL. If
-the app requires a login, include the credentials the tool returns, taken from the
-app's actual data rather than invented.
+**For app creation or modification workflows, finish with a successful build and
+working preview.** Call `preview_app` and give the user the URL. If the app requires a
+login, include the credentials the tool returns, taken from the app's actual data
+rather than invented.
 
 ## Connector version
 

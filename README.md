@@ -40,8 +40,8 @@ For any MCP client that takes a JSON config:
 
 ## Claude Code plugin
 
-This repository also contains a Claude Code plugin that bundles the connector, so it
-can be added in one step rather than configured by hand.
+This repository also contains a Claude Code plugin that connects to the remote
+connector, so it can be added in one step rather than configured by hand.
 
 See [CLAUDE.md](CLAUDE.md) for the rules Claude follows when working with an Apper
 app — reading the instruction tools before generating, confirming before anything is
@@ -68,7 +68,8 @@ Verify the current listing:
 curl "https://registry.modelcontextprotocol.io/v0.1/servers?search=apper-mcp"
 ```
 
-The manifest is [server.json](server.json).
+The manifest is [server.json](server.json). See [RELEASING.md](RELEASING.md) for how a
+new version is published.
 
 ## Links
 
