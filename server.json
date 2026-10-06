@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.apperhq/apper-mcp",
+  "title": "Apper MCP Connector",
+  "description": "Build and update complete applications in Apper through AI assistants using the Model Context Protocol.",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/apperhq/mcp",
+    "source": "github"
+  },
+  "websiteUrl": "https://apper.io/",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://mcp.apper.io/v1/connect"
+    }
+  ]
+}

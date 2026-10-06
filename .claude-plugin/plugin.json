@@ -1,0 +1,13 @@
+{
+  "name": "apper",
+  "description": "Build, update, and preview Apper apps and websites from Claude Code. Bundles the official Apper MCP server (remote, OAuth 2.0) for one-step setup, with guidance on confirming before anything is published, deployed, or deleted.",
+  "version": "0.1.0",
+  "author": {
+    "name": "CompanyHub IT Solutions Pvt Ltd",
+    "url": "https://apper.io"
+  },
+  "homepage": "https://apper.io",
+  "repository": "https://github.com/apperhq/mcp",
+  "license": "Apache-2.0",
+  "keywords": ["apper", "app-builder", "website-builder", "full-stack", "mcp"]
+}
