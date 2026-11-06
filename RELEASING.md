@@ -62,7 +62,7 @@ Verify with `mcp-publisher --help`.
    ```
 
    Confirm the returned entry shows the expected name, version, description, and the
-   `https://mcp.apper.io/v1/connect` endpoint.
+   `https://mcp.apper.io/v1.1/connect` endpoint.
 
 6. **Commit the version bump** so this repository matches the published entry.
 

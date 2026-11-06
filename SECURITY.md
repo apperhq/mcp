@@ -20,7 +20,7 @@ We will acknowledge your report and keep you updated as we investigate.
 
 This repository contains the MCP Registry manifest and the Claude Code plugin for the
 Apper MCP connector. The connector itself is a hosted service at
-`https://mcp.apper.io/v1/connect`.
+`https://mcp.apper.io/v1.1/connect`.
 
 Reports about the hosted connector, its authentication, or the apps it builds are in
 scope and should go to the same address.

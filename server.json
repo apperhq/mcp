@@ -3,7 +3,7 @@
   "name": "io.github.apperhq/apper-mcp",
   "title": "Apper MCP Connector",
   "description": "Build and update complete applications in Apper through AI assistants using MCP.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "repository": {
     "url": "https://github.com/apperhq/mcp",
     "source": "github"
@@ -12,7 +12,7 @@
   "remotes": [
     {
       "type": "streamable-http",
-      "url": "https://mcp.apper.io/v1/connect"
+      "url": "https://mcp.apper.io/v1.1/connect"
     }
   ]
 }

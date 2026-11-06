@@ -13,7 +13,7 @@ development stack.
 The connector is a remote MCP server. There is nothing to install or run locally.
 
 ```
-https://mcp.apper.io/v1/connect
+https://mcp.apper.io/v1.1/connect
 ```
 
 Transport is `streamable-http`, and authentication is OAuth 2.0 — your client opens a
@@ -26,7 +26,7 @@ For any MCP client that takes a JSON config:
   "mcpServers": {
     "apper": {
       "type": "streamable-http",
-      "url": "https://mcp.apper.io/v1/connect"
+      "url": "https://mcp.apper.io/v1.1/connect"
     }
   }
 }

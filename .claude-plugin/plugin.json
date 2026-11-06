@@ -1,7 +1,7 @@
 {
   "name": "apper",
   "description": "Build, update, and preview Apper apps and websites from Claude Code. Connects to the official remote Apper MCP server (OAuth 2.0) for one-step setup, with guidance on confirming before anything is published, deployed, or deleted.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": {
     "name": "CompanyHub IT Solutions Pvt Ltd",
     "url": "https://apper.io"
